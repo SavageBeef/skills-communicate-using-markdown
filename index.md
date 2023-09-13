@@ -8,3 +8,8 @@
 
 ![Gif of Penguin slapping another penguin](http://i.imgur.com/Ssfp7.gif)
 <!--Changes: Added a Gif.-->
+
+``` javascript
+var myVar = "Bye, world!";
+```
+<!--Changes: Added a code example.-->
